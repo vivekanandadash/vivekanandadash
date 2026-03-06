@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Microservice design patterns , AWS, Docker and Kubernetes , TypeScript , Angular 21**
 
-- 💬 Ask me about **java design patterns,security and devops**
+- 💬 Ask me about **java, design patterns,security and devops**
 
 - 📫 How to reach me **vivekanandadash245@gmail.com**
 
