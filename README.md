@@ -7,9 +7,9 @@
 
 - 🔭 I'm currently working on a REST API called Employee Management System, which I will Dockerize, deploy on AWS, and build a CI/CD pipeline for! **Employee Management system**
 
-- 🌱 I’m currently learning **M**
+- 🌱 I’m currently learning **Microservice design patterns , AWS, Docker and Kubernetes , TypeScript , Angular 21**
 
-- 💬 Ask me about **Microservice design patterns , AWS, Docker and Kubernetes , TypeScript , Angular 21**
+- 💬 Ask me about **java design patterns,security and devops**
 
 - 📫 How to reach me **vivekanandadash245@gmail.com**
 
