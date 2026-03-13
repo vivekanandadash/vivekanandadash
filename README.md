@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vivekananda%20Dash&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=60&descAlign=50" />
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+Java+backends+%F0%9F%9A%80;Microservices+%7C+Docker+%7C+Kubernetes;AWS+%7C+CI%2FCD+%7C+Jenkins;Learning+by+doing%2C+always+shipping+%E2%9C%85" alt="Typing SVG" />
-</a>
+<!-- Animated Venom/Glitch-style Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f2027,60:1a3a4a,100:0ea5e9&height=250&section=header&text=Vivekananda%20Dash&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=0ea5e9&strokeWidth=2&desc=☕%20Java%20Full-Stack%20%7C%20%F0%9F%90%B3%20DevOps%20%7C%20%E2%98%81%EF%B8%8F%20Cloud%20Engineer&descSize=20&descAlignY=68&descAlign=50&descColor=94d2f5" />
 
 <br/>
+
+<!-- Typing SVG — richer lines -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=38BDF8&background=00000000&center=true&vCenter=true&random=false&width=700&height=60&lines=🚀+Building+production-grade+Java+backends;🧩+Microservices+%7C+Spring+Boot+%7C+Hibernate;🐳+Docker+%7C+Kubernetes+%7C+Jenkins+CI%2FCD;☁️+AWS+%7C+Kafka+%7C+Redis+%7C+ELK+Stack;📊+Grafana+%7C+Prometheus+%7C+Spring+Security;💡+Learning+by+doing+—+always+shipping+✅" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=vivekanandadash&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
@@ -16,6 +18,11 @@
 <a href="https://github.com/vivekanandadash?tab=followers">
   <img src="https://img.shields.io/github/followers/vivekanandadash?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=1e293b" />
 </a>
+
+<br/><br/>
+
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/vivekanandadash/vivekanandadash/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
