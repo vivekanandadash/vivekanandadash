@@ -32,71 +32,33 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```java
+@Developer
+public class VivekanandaDash {
 
-### 👋 Hey, I'm Vivekananda!
+    String name              = "Vivekananda Dash";
+    String role              = "Java Full-Stack + DevOps + Cloud Engineer";
+    String location          = "India 🇮🇳";
 
-A passionate **Java Full-Stack & DevOps Engineer** from **India 🇮🇳** who loves turning complex problems into clean, scalable solutions.
+    String[] currentlyBuilding = {
+        "Employee Management System (REST API + Docker + AWS + CI/CD)"
+    };
+    String[] learning          = {
+        "Microservice Design Patterns", "AWS", "Docker",
+        "Kubernetes", "TypeScript", "Angular"
+    };
+    String[] expertise         = {
+        "Java", "Spring Boot", "Design Patterns", "Security", "DevOps"
+    };
 
-I believe in **shipping real things** — not just tutorials. Every project I build is production-minded: containerized, secured, monitored, and deployed.
+    String   email             = "vivekanandadash245@gmail.com";
+    String   motto             = "Learn by doing. Ship it. Iterate.";
 
-<br/>
-
-**🔥 What drives me:**
-- Writing clean, testable backend code
-- Automating everything with CI/CD
-- Learning cloud-native patterns deeply
-- Building systems that actually scale
-
-<br/>
-
-> *"The best way to learn is to build something real."* ☕
-
-</td>
-<td width="50%" valign="top">
-
-### 📌 Quick Facts
-
-```yaml
-name       : Vivekananda Dash
-role       : Java Full-Stack Engineer
-location   : India 🇮🇳
-email      : vivekanandadash245@gmail.com
-
-currently_building:
-  - Employee Management System
-  - REST API + Docker + AWS + CI/CD
-
-learning_now:
-  - Microservice Design Patterns
-  - Kubernetes & AWS
-  - TypeScript & Angular
-
-strengths:
-  - Java & Spring Ecosystem
-  - DevOps & Cloud Infrastructure
-  - Security & Performance
+    void currentStatus() {
+        System.out.println("🔧 Building | 📚 Learning | 🚀 Shipping");
+    }
+}
 ```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<!-- Skill pills row -->
-![Java](https://img.shields.io/badge/⚡_Core-Java-ED8B00?style=flat-square&logoColor=white)
-![Spring](https://img.shields.io/badge/🌱_Spring-Ecosystem-6DB33F?style=flat-square&logoColor=white)
-![DevOps](https://img.shields.io/badge/🐳_Docker-Kubernetes-2496ED?style=flat-square&logoColor=white)
-![Cloud](https://img.shields.io/badge/☁️_AWS-Cloud-FF9900?style=flat-square&logoColor=white)
-![CI/CD](https://img.shields.io/badge/🔄_Jenkins-CI%2FCD-D24939?style=flat-square&logoColor=white)
-![Security](https://img.shields.io/badge/🔐_Spring-Security-6DB33F?style=flat-square&logoColor=white)
-
-</div>
 
 ---
 
