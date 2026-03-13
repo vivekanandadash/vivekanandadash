@@ -19,8 +19,8 @@
 
 <br/><br/>
 
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/vivekanandadash/vivekanandadash/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- Contribution Heatmap - works without any setup -->
+<img src="https://ghchart.rshah.org/0ea5e9/vivekanandadash" alt="Contribution Chart" />
 
 </div>
 
