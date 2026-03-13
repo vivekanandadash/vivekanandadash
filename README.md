@@ -24,7 +24,7 @@
 
 ```java
 /**
- * Senior Java Engineer & DevOps Practitioner
+ *  Java Engineer & DevOps Practitioner
  * Passionate about clean architecture, scalable
  * systems, and shipping things that actually work.
  */
