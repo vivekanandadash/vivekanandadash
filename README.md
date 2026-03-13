@@ -5,10 +5,8 @@
 
 <br/>
 
-<!-- Typing SVG — richer lines -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=38BDF8&background=00000000&center=true&vCenter=true&random=false&width=700&height=60&lines=🚀+Building+production-grade+Java+backends;🧩+Microservices+%7C+Spring+Boot+%7C+Hibernate;🐳+Docker+%7C+Kubernetes+%7C+Jenkins+CI%2FCD;☁️+AWS+%7C+Kafka+%7C+Redis+%7C+ELK+Stack;📊+Grafana+%7C+Prometheus+%7C+Spring+Security;💡+Learning+by+doing+—+always+shipping+✅" alt="Typing SVG" />
-</a>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=60&lines=Building+production-grade+Java+backends+%F0%9F%9A%80;Microservices+%7C+Spring+Boot+%7C+Hibernate;Docker+%7C+Kubernetes+%7C+Jenkins+CI%2FCD;AWS+%7C+Kafka+%7C+Redis+%7C+ELK+Stack;Grafana+%7C+Prometheus+%7C+Spring+Security;Learning+by+doing+always+shipping+%E2%9C%85" alt="Typing SVG" />
 
 <br/><br/>
 
