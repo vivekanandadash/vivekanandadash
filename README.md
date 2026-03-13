@@ -1,25 +1,32 @@
 <div align="center">
 
-<!-- Animated Venom/Glitch-style Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f2027,60:1a3a4a,100:0ea5e9&height=250&section=header&text=Vivekananda%20Dash&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=0ea5e9&strokeWidth=2&desc=☕%20Java%20Full-Stack%20%7C%20%F0%9F%90%B3%20DevOps%20%7C%20%E2%98%81%EF%B8%8F%20Cloud%20Engineer&descSize=20&descAlignY=68&descAlign=50&descColor=94d2f5" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f2027,60:1a3a4a,100:0ea5e9&height=280&section=header&text=Vivekananda%20Dash&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=0ea5e9&strokeWidth=2&desc=☕%20Java%20Full-Stack%20%7C%20🐳%20DevOps%20%7C%20☁️%20Cloud%20Engineer&descSize=22&descAlignY=68&descAlign=50&descColor=94d2f5" />
 
 <br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=60&lines=Building+production-grade+Java+backends+%F0%9F%9A%80;Microservices+%7C+Spring+Boot+%7C+Hibernate;Docker+%7C+Kubernetes+%7C+Jenkins+CI%2FCD;AWS+%7C+Kafka+%7C+Redis+%7C+ELK+Stack;Grafana+%7C+Prometheus+%7C+Spring+Security;Learning+by+doing+always+shipping+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=750&height=60&lines=Building+production-grade+Java+backends+🚀;Microservices+%7C+Spring+Boot+%7C+Hibernate;Docker+%7C+Kubernetes+%7C+Jenkins+CI%2FCD;AWS+%7C+Kafka+%7C+Redis+%7C+ELK+Stack;Grafana+%7C+Prometheus+%7C+Spring+Security;Learning+by+doing+—+always+shipping+✅" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Profile Views + Followers -->
+<!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=vivekanandadash&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
 &nbsp;
 <a href="https://github.com/vivekanandadash?tab=followers">
   <img src="https://img.shields.io/github/followers/vivekanandadash?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=1e293b" />
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Java%20%7C%20DevOps%20%7C%20Cloud-0ea5e9?style=for-the-badge&labelColor=1e293b" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=1e293b" />
 
 <br/><br/>
 
+<!-- Ocean GIF -->
 <img src="./ocean_waves.gif" alt="Ocean Waves" width="800"/>
+
+</div>
 
 ---
 
@@ -29,13 +36,27 @@
 @Developer
 public class VivekanandaDash {
 
-    String[] currentlyBuilding = {"Employee Management System (REST API + Docker + AWS + CI/CD)"};
-    String[] learning          = {"Microservice Design Patterns", "AWS", "Docker", "Kubernetes",
-                                   "TypeScript", "Angular 21"};
-    String[] expertise         = {"Java", "Spring Boot", "Design Patterns",
-                                   "Security", "DevOps"};
+    String name              = "Vivekananda Dash";
+    String role              = "Java Full-Stack + DevOps + Cloud Engineer";
+    String location          = "India 🇮🇳";
+
+    String[] currentlyBuilding = {
+        "Employee Management System (REST API + Docker + AWS + CI/CD)"
+    };
+    String[] learning          = {
+        "Microservice Design Patterns", "AWS", "Docker",
+        "Kubernetes", "TypeScript", "Angular"
+    };
+    String[] expertise         = {
+        "Java", "Spring Boot", "Design Patterns", "Security", "DevOps"
+    };
+
     String   email             = "vivekanandadash245@gmail.com";
     String   motto             = "Learn by doing. Ship it. Iterate.";
+
+    void currentStatus() {
+        System.out.println("🔧 Building | 📚 Learning | 🚀 Shipping");
+    }
 }
 ```
 
@@ -45,9 +66,17 @@ public class VivekanandaDash {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivekananda%20Dash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekananda-dash)
-[![Twitter](https://img.shields.io/badge/Twitter-@vivekanand85051-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@vivekanand85051)
-[![Email](https://img.shields.io/badge/Email-vivekanandadash245@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekanandadash245@gmail.com)
+<a href="https://linkedin.com/in/vivekananda-dash">
+  <img src="https://img.shields.io/badge/LinkedIn-Vivekananda%20Dash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/@vivekanand85051">
+  <img src="https://img.shields.io/badge/Twitter-@vivekanand85051-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:vivekanandadash245@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-vivekanandadash245-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -57,12 +86,12 @@ public class VivekanandaDash {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivekanandadash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekanandadash&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivekanandadash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=94d2f5" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekanandadash&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=94d2f5" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekanandadash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekanandadash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=0ea5e9&text_color=94d2f5" />
 
 </div>
 
@@ -79,6 +108,8 @@ public class VivekanandaDash {
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### ☕ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -138,19 +169,27 @@ public class VivekanandaDash {
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
+</div>
+
 ---
 
 ## 🚀 Current Project
 
-> **Employee Management System** — A production-grade REST API built with Spring Boot, containerized with Docker, deployed on AWS, and automated with a full CI/CD pipeline using Jenkins.
+<div align="center">
+
+> 🏗️ **Employee Management System** — A production-grade REST API built with Spring Boot, containerized with Docker, deployed on AWS, and automated with a full CI/CD pipeline using Jenkins.
+
+</div>
 
 ```
 📦 Employee Management System
- ┣ 🔧 Spring Boot REST API
- ┣ 🐳 Dockerized & Container-ready
- ┣ ☁️  Deployed on AWS (EC2 / ECS)
- ┣ 🔄 CI/CD Pipeline with Jenkins
- ┗ 🔐 Spring Security integrated
+ ┃
+ ┣ 🔧  Spring Boot REST API          →  Clean architecture, layered design
+ ┣ 🐳  Dockerized & Container-ready  →  Multi-stage Docker builds
+ ┣ ☁️   Deployed on AWS (EC2 / ECS)   →  Scalable cloud infrastructure
+ ┣ 🔄  CI/CD Pipeline with Jenkins   →  Automated build, test & deploy
+ ┣ 🔐  Spring Security integrated    →  JWT auth, role-based access
+ ┗ 📊  Monitoring with Prometheus    →  Grafana dashboards
 ```
 
 ---
@@ -159,7 +198,7 @@ public class VivekanandaDash {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekanandadash&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekanandadash&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff" />
 
 </div>
 
@@ -167,8 +206,19 @@ public class VivekanandaDash {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+<!-- Ocean waves footer -->
+<img src="./ocean_waves.gif" alt="Ocean Waves" width="800"/>
 
-*"The best way to learn is to build something real."* ☕
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:0ea5e9&height=100&section=footer" />
+
+<br/>
+
+*"The best way to learn is to build something real."* &nbsp;☕
+
+<br/>
+
+![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20if%20you%20like%20it-0ea5e9?style=for-the-badge&labelColor=1e293b)
 
 </div>
