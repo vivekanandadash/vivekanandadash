@@ -180,18 +180,6 @@ Architecture Highlights
 
 ---
 
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=vivekanandadash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
----
-
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekanandadash&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff" width="100%"/>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:0ea5e9&height=90&section=footer" width="100%"/>
 
 <sub>☕ Built with Java. Deployed with Docker. Monitored with ❤️</sub>
