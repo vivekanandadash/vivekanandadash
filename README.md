@@ -144,7 +144,7 @@ public class VivekanandaDash extends Engineer {
 
 ### 🏗 Employee Management System
 
-A **production-grade REST API** engineered from the ground up — not just a tutorial project.
+A **Production-grade REST API** engineered from the ground up — not just a tutorial project.
 
 ```
 Architecture Highlights
