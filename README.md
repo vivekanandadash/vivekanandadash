@@ -136,34 +136,6 @@ public class VivekanandaDash extends Engineer {
 
 ---
 
-## 🚀 Flagship Project
-
-<table>
-<tr>
-<td>
-
-### 🏗 Employee Management System
-
-A **Production-grade REST API** engineered from the ground up — not just a tutorial project.
-
-```
-Architecture Highlights
-─────────────────────────────────────────────
-  Spring Boot REST API     →  Clean layered architecture
-  Multi-stage Docker       →  Lean, optimized images
-  AWS EC2 / ECS Deploy     →  Cloud-native & scalable
-  Jenkins CI/CD Pipeline   →  Automated build → test → ship
-  JWT + Role-based Auth    →  Spring Security hardened
-  Prometheus + Grafana     →  Production observability
-─────────────────────────────────────────────
-```
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <table>
