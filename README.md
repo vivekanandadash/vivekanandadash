@@ -65,7 +65,7 @@ public class VivekanandaDash extends Engineer {
 |---|---|
 | 📍 **Location** | India 🇮🇳 |
 | 💼 **Role** | Java Full-Stack + DevOps |
-| 🔧 **Building** | Employee Mgmt System |
+| 🔧 **Building** | Employee Management System |
 | ☁️ **Platform** | AWS + Docker + K8s |
 | 📬 **Email** | vivekanandadash245@gmail.com |
 | 🔗 **LinkedIn** | [vivekananda-dash](https://linkedin.com/in/vivekananda-dash) |
