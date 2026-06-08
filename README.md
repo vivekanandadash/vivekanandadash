@@ -156,6 +156,6 @@ public class VivekanandaDash extends Engineer {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:0ea5e9&height=90&section=footer" width="100%"/>
 
-<sub>☕ Built with Java. Deployed with Docker. Monitored with ❤️</sub>
+<sub>☕ Built with Java. Deployed with Docker. Monitored by me</sub>
 &nbsp;&nbsp;
 <sub><a href="mailto:vivekanandadash245@gmail.com">vivekanandadash245@gmail.com</a></sub>
