@@ -22,7 +22,7 @@
 <tr>
 <td width="58%" valign="top">
 
-```java
+```Java
 /**
  *  Java Engineer & DevOps Practitioner
  * Passionate about clean architecture, scalable
