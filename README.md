@@ -59,7 +59,7 @@ public class VivekanandaDash extends Engineer {
 
 <br/>
 
-### 🗺 quick map
+### 🗺 Quick Map
 
 | | |
 |---|---|
